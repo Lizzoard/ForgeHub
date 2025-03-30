@@ -8,4 +8,7 @@ content-type: application/json
 }
 
 #### Get one customer
-GET http://localhost:3000/customers/123
+GET http://localhost:3000/customers/745
+
+### Get all customers
+GET  http://localhost:3000/customers
